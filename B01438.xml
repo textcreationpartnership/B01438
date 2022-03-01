@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles exhibited against Clonell [sic] Edward King, for his indolencies and misdemeanors in the county of Lincolne, to the Honourable, the House of Commons in August 1644. / by Master Mussenden, Master Wolley, and divers others of the c[o]mmittee of  Lincolne.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01438</idno>
+            <idno type="STC">Wing A3819A</idno>
+            <idno type="STC">ESTC R172522</idno>
+            <idno type="EEBO-CITATION">47012318</idno>
+            <idno type="OCLC">ocm 47012318</idno>
+            <idno type="VID">174280</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01438)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174280)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2681:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles exhibited against Clonell [sic] Edward King, for his indolencies and misdemeanors in the county of Lincolne, to the Honourable, the House of Commons in August 1644. / by Master Mussenden, Master Wolley, and divers others of the c[o]mmittee of  Lincolne.</title>
+                  <author>King, Edward, of Marton, Lincolnshire.</author>
+               </titleStmt>
+               <extent>[3], 6, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.,]</publisher>
+                  <pubPlace>London:</pubPlace>
+                  <date>Printed 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages cropped with some loss of text.</note>
+                  <note>Reproduction of original in: Trinity College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term>Lincolnshire (England) --  History, Military --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174280:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 44 -->
+            <p>ARTICLES <hi>Exhibited againſt</hi> CLONELL Edward King, FOR HIS Inſolencies and Miſdemeanors in the County of LINCOLNE, to the Honoura<g ref="char:EOLhyphen"/>ble, the Houſe of Commons in <hi>Auguſt</hi> 1644.</p>
+            <p>BY Maſter <hi>Muſſenden,</hi> Maſter <hi>Wolley,</hi> and di<g ref="char:EOLhyphen"/>vers others of the Cmmittee of LINCOLNE.</p>
+            <p>London Printed 1644.</p>
+            <p>
+               <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174280:2"/>
+            <!-- PDF PAGE 45 -->
+            <pb n="1" facs="tcp:174280:2"/>
+            <!-- PDF PAGE 45 -->
+            <head>Articles exhibited, Againſt Colonell EDVVRD KING, for his Inſolencies and Miſdemeanours in the County of LINCOLNE, to the Honou<g ref="char:EOLhyphen"/>rable, the houſe of Commons, in <date>
+                  <hi>Auguſt</hi> 1644.</date> by Mr. <hi>Muſsenden,</hi> Mr. <hi>Wolley,</hi> and divers others of the Comittee of <hi>Lincolne.</hi>
+            </head>
+            <p n="1">
+               <hi>IMprimis,</hi> That to the Great diſcragement of the Countie he doth openly declare, his ſlighting of all mens good af<g ref="char:EOLhyphen"/>fections to the Parliaments ſervice, by expreſſing that he va<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ueth not, that men ſhould do the Parliament ſervice volunta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ily, but than he would by his power force them to ſerve.</p>
+            <p n="2">II. That he doth pay thoſe great ſums of money raiſed by him out of the Countrie only to whom he pleaſeth, againſt all Equity and Juſtice, notwithſtanding my Lord <hi>Mancheſters</hi> Order to the contrary.</p>
+            <p n="3">III. That he hath publikely declared his ſlighting the Ordinance of Parliament, and done very many Ty<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>annicall and arbitrary Actions, by impriſoning divers of <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſons at his pleaſure, and exacting great ſums of money, at ſuch time when neceſſitin could be no plea, with many other particulars.</p>
+            <p n="4">IV. When he was before Newarke he ſent for a Captain, who kept Crowland, who obeyed his command, yet ſent word to him of the danger that town was in, and therefore <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſired his ſecond pleaſure, which was, that he ſhould march, who acordingly did, the Gentlemen of the Countrie fearing
+<pb n="2" facs="tcp:174280:3"/>
+               <!-- PDF PAGE 46 -->the Enemy procured Major <hi>Ireton</hi> to ſend 100 Musketiers to keep Crowland, which he hearing of, took ill that with<g ref="char:EOLhyphen"/>out order from him, any ſhould come into his Liberties, and commanded them to be gone, who accordingly departed; the Enemy preſently ſurpriſed the Town, and thoſe few that he had left in it, by which means he betrayed the Town un<g ref="char:EOLhyphen"/>to the Enemy, which was not regained without much charge, hazard, and loſſe of many mens lives.</p>
+            <p n="5">5 That he gives protections for ſecuring both perſon and goods, to thoſe who are profeſſed enemies to the Parliament.</p>
+            <p n="6">6 That he imployeth ſuch Officers, as are altogether un<g ref="char:EOLhyphen"/>fit for the Countries ſervice,</p>
+            <p n="7">7 That he doth moſt groſſely and unworthily affront and abuſe the well-affected Gentry of the Countrie.</p>
+            <p n="8">8 That he doth encourage deſperate Malignants and ani<g ref="char:EOLhyphen"/>mateth them againſt the well affected.</p>
+            <p n="9">9 That he and his Officers have impriſoned men well af<g ref="char:EOLhyphen"/>fected to the Parliament, and cauſed their houſes, cheſts, truneks, &amp;c. to be ſearched for pewter, braſſe, and linnen, and threatned that they would make it coſt one of them his whole eſtate, and that one of his Officers would not take three hundred pounds for his own ſatisfaction.</p>
+            <p n="10">10 That at the ſiege before Newark, ſuch proviſion as the Countrie had voluntarily and freely ſent in to Col. <hi>Kings</hi> quarters at Winthorp, for the maintainance of the ſouldiers, his Officers would not deliver without money, although they had not pay, to the extream oppreſſion and diſcourage<g ref="char:EOLhyphen"/>ment of the Countrie.</p>
+            <p n="11">11 That he ſent three warrants to Capt. <hi>Buſhey</hi> at Tatter<g ref="char:EOLhyphen"/>ſhall, to take away a great quantitie of wooll, which wa<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bought by Mr. <hi>Rawſon</hi> one of the Committee, and paid for with hit own money, and ſo the ſaid <hi>Rawſon</hi> is likely to loſ<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his eſtate, although he hath been a ſufferer both for Church and Commonwealth this twentie years, and hath made him
+<pb n="3" facs="tcp:174280:3"/>
+               <!-- PDF PAGE 46 -->a Malignant, both in his words and letters, as much as in him did lie.</p>
+            <p n="12">12 That when the Enemy took Grantham, they being beaten from one part of the town, wheeled about to fal upon the other ſide, at a place called Spittle-gate, which Major <hi>Sar<g ref="char:EOLunhyphen"/>vill</hi> being then Major of the Town perceiving, commanded Col. <hi>King</hi> being then Capt. of a Company there, to march with his Companie to defend that place, Collonel <hi>King</hi> an<g ref="char:EOLhyphen"/>ſwered, that he ſcorned to be commanded by him, and ra<g ref="char:EOLhyphen"/>ther then he would be commanded by him, he would take his Companie and let the Enemie into the Town, and he de<g ref="char:EOLhyphen"/>layed ſo long before he would go, that the Enemie was ente<g ref="char:EOLhyphen"/>red at the ſaid Port before he came thither, by which means he betrayed that Town.</p>
+            <p n="13">13 That when Commiſſary <hi>James</hi> had brought in certain ſheep from a malignant for the relief of the ſiege at Newark, being then in great want, Colonel <hi>King</hi> cauſed the ſaid ſheep to be reſtored to the malignant, and told the Commiſſarie that he deſerved to be hanged, with divers other threatning and reviling ſpeeches; notwithſtanding he had order from Sir <hi>Iohn Meldrum</hi> and the Committee for the taking of them.</p>
+            <p n="14">14 That Collonel <hi>King</hi> havidg promiſed the Lord of Mancheſter to raiſe a great number of Horſe and Foot, the ſaid <hi>King,</hi> as did appear, not knowing how to raiſe ſo great a number, did to the great diſcouragement of the Coun<g ref="char:EOLhyphen"/>trie, take this courſe; In the firſt place he caſhiered Major <hi>Syler,</hi> with him three hundred Voluntiers, which ſerved on their own charge, who with the Towneſmen had alwayes defended the Towne of Boſton, that he might preſſe them to ſerve under him for pay; and ſecondly, he did ſeiſe upon and detain four or five of the Foot Companies belonging to the Lord Willoughbie, and did caſhiere ſome of the Cap<g ref="char:EOLhyphen"/>taines, becauſe they refuſed to forſake my Lord to ſerve un<g ref="char:EOLhyphen"/>der him.</p>
+            <p n="15">
+               <pb n="4" facs="tcp:174280:4"/>
+               <!-- PDF PAGE 47 -->
+XV. That the Troopers of Colonell <hi>Cromwell</hi> which were loſt at Coleby and Waddington, were treacherouſly or ignorantly betrayed by Colonell <hi>King.</hi>
+            </p>
+            <p n="16">XVI. That to the great diſcouragement of the Countrie he doth oppoſe and quarrell with ſuch as have been moſt ſer<g ref="char:EOLhyphen"/>viceable to the Countrie, and ſuch in whom the power of Religion is moſt eminent (viz.) Lieutenant Generall <hi>Crom<g ref="char:EOLhyphen"/>well,</hi> Mr <hi>Ram</hi> and others, and that he impriſoned divers o<g ref="char:EOLhyphen"/>ther uery godly men, and that for exerciſing the very power of Godlineſſe, which he did in a very ſcornfull and vile man<g ref="char:EOLhyphen"/>ner, and ſtill continueth an utter enemie to ſuch men, as namely Lieutenant Colonell <hi>Berry,</hi> Major <hi>Lilborne,</hi> Captain <hi>Chambridge</hi> and others.</p>
+            <p n="17">XVII. That to the great diſcontent and diſcouragement of the Countrie, hee and his Officers did quarrell with, and ſlight the Committee at Lincolne, which was ſetled by Or<g ref="char:EOLhyphen"/>dinance of Parliament, who were men of the beſt eſtates qua<g ref="char:EOLhyphen"/>lity and Integrity, and ſuch as were eſpecially commended to ſerve the Countrey; and publikely vilifying them, and their actions, and aſſuming their power without any Au<g ref="char:EOLhyphen"/>thority.</p>
+            <p n="18">XVIII. That before this war began he was an open and publike perſecutor and ſcoffer of Religious men.</p>
+            <p n="19">XIX That he is a man of a turbulent and factious ſpirit, of meane condition and eſtate for ſo abſolute a command, that he hath received vaſt ſums of money amounting to about 20000 .l. much of which he hath levied in an illegall and ob<g ref="char:EOLhyphen"/>ſcure way, and iſſued out accordingly, for which it is deſired he may give a ſpeedy Account, and likewiſe of the reſt of his actins.</p>
+            <p n="20">XX. That in a factious and ſeditious manner he did imploy ſome agents to deliver blue Ribbonds to ſuch as would ſtand for him, and ſhew themſelves his frinds, to the great terrour and diſcontent of the Countrey, and the hazard of raiſing a dangerous mutinie.</p>
+            <p n="21">
+               <pb n="5" facs="tcp:174280:4"/>
+               <!-- PDF PAGE 47 -->
+XXI. That he kept about twenty men to wait on him whom he called his life guard, to whom he gave extraordinary pay, though they were exempted from all duty, except it were to wait upon him advance his reputation, and awe and affright the Countrie.</p>
+            <p n="22">XXII. That he did awe and gain the Countrie wholly after him and that he might with better colour dominere, falſely ſtile him<g ref="char:EOLhyphen"/>ſelfe Lieuetenant Generall of the Countie of Lincolne.</p>
+            <div type="part">
+               <head>Articles againſt Colonell <hi>King,</hi> preſented to the Committe of the Houſe of Peres, by Mr. <hi>Smith,</hi> of Lincolneſhire, <date>Sep. 1644.</date>
+               </head>
+               <p>
+                  <hi>IMprimis,</hi> That the ſaid Colonell <hi>King</hi> hath at ſundry times open<g ref="char:EOLhyphen"/>ly contemned and ſlighed ſeverall Ordinaces of the Lords and Commons now in Parliament Aſſembled, to the great diſcourage<g ref="char:EOLhyphen"/>ment of the Committee and other Officers of Parliament, within the Countie of Lincolne, and to the manifeſt retarding of the pub<g ref="char:EOLhyphen"/>like ſervice, (viz.) <hi>The Ordinance for the King, Queene, and Princes Revenue,</hi> with divers others.</p>
+               <p n="2">II. That the ſaid Colonell <hi>King</hi> hath not only heretofore been a violent perſecutor of able Miniſters, as Mr. <hi>Hinſhley,</hi> and other godly and well diſpoſed people, for not conforming to Ceremo<g ref="char:EOLhyphen"/>nies, but hath perſevered therein, &amp; in a tirannicall manner ſithence his command from the Right Honor. the E. of <hi>Mancheſter,</hi> impri<g ref="char:EOLhyphen"/>ſoned divers religious and godly people in priſons, and a Dungeon without any fit accommodations, calling them, Browniſts, Anabap<g ref="char:EOLhyphen"/>tiſts, Witches, Conjurers and Devils, or words to th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t effect, threat<g ref="char:EOLhyphen"/>ning them that he would ſhip them away, and ſeize their eſtates, on<g ref="char:EOLhyphen"/>ly for Chriſtian meetings, which he ſaid was worſe then the ſin of Witchcraft, and hath very much abuſed able and godly divines, as Mr. <hi>Ram</hi> of Spalding, and others that ſpoke well of them to him, in their behalfe, and hath often declared that he would root all ſuch of his Regiment, which he hath done by Arbitrarie and ungodly waies and practiſes.</p>
+               <p n="3">III. That he hath divers times ſummoned the Countrye to be and appeare before him and his Officers, which metings he termed Courts and therein ſhewed himſelf moſt intolerable imperious and
+<pb n="4" facs="tcp:174280:5"/>
+                  <!-- PDF PAGE 48 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:174280:5"/>
+                  <!-- PDF PAGE 48 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:174280:6"/>
+                  <!-- PDF PAGE 49 -->
+                  <gap reason="illegible: missing" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſolent and hath therein done very many tyrannicall and Arbitrary actions, Fining divers perſons (as Mr. <hi>Wallet,</hi> Mr. <hi>Hargrave,</hi> and others we<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l affected) grievouſly, and inſupportably in the ſaid pre<g ref="char:EOLhyphen"/>tended Court, for ſmall or no offence, and hath ſent his agents, Of<g ref="char:EOLhyphen"/>ficers &amp; ſouldiers who have levien the ſaid fines upon their goods.</p>
+               <p n="4">IV. That he hath received vaſt ſums of money much of which he hath raiſed by unjuſt and illegall waies, and wilfully neglecting the preſervation of the Countie, hath done very little or no ſervice with it (before the unhappie Siege at Newarke) ſave his defend<g ref="char:EOLhyphen"/>ing the towne of Boſton, which before he commanded there, was as well defended by voluntires, with little or no charge to the Countie, which voluntiers were Caſhired by him, to the great da<g ref="char:EOLhyphen"/>mage of the Countrey.</p>
+               <p n="5">V. That in a proud and inſolent manner, he hath exceeded the limits of his Commiſſion, granted him from the righ<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Honourable the Earl of <hi>Mancheſter,</hi> by aſſuming to himſelfe the title o<gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ene<g ref="char:EOLhyphen"/>nerall of the Countie, and raiſing men and horſes at his pleaſure throughot the whole Countie, and keeping at the Countries charge about twenty men to waite on him, which he called his lifeguard, and uſually called the Countries forces is Armie, and doth direct his letters to his Father with title of right honourable</p>
+               <p n="6">VI. That there hath been divers blue ribbons diſperſed in the Countrie by him or his Agents, to ſuch as would ſhew themſelves for him, and procure of ſet their hands to petitions for the reſto<g ref="char:EOLhyphen"/>ring him to his former commands, and thoſe who have refuſed to ſet their hands contrary to their conſciences, have been threatned, <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd evill entreated by his ſaid Agents, and he himſelfe did tell Mr. <hi>Tilſon</hi> and others of the Committee at Boſton, in a threatning man<g ref="char:EOLhyphen"/>ner, when they would not obey his unwarrantabe deſires and com<g ref="char:EOLhyphen"/>mands, that troue Blew was a good colour, which hath hazarded the raiſing of a dangerous mutining among the Souldiedrs and Countrey men.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
